@@ -17,4 +17,4 @@ This is a way to create files more efficiently for our tasks
 
 ## Compiled with GCC
 
-`$ gcc -Wall -Werror -Wextra -pedantic file_maker.c -o file_maker`
+`$ gcc -Wall -Werror -Wextra -pedantic *.c -o file_maker`
