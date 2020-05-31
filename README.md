@@ -1,11 +1,9 @@
-# This is a way to create files more efficiently for our tasks.
+# :zap: This is a way to create files more efficiently for our tasks :zap:
 
 ## Options
 
-`
-→ You can create C files.
-→ You can create BASH files.
-`
+`→ You can create C files.` <br/>
+`→ You can create BASH files.`
 
 ## Compiled with GCC
 
