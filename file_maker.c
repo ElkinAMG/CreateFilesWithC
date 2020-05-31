@@ -11,7 +11,7 @@ int main(void)
 	int files = 0, option, bool;
 
 	puts("Select type of file: ");
-	printf("→ C File [1]\n→ BASH Files [2]\n>>> ");
+	printf("→ C File [1]\n→ BASH File [2]\n>>> ");
 	scanf("%d", &option);
 
 	switch(option)
