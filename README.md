@@ -5,7 +5,8 @@ This is a way to create files more efficiently for our tasks
 ## Options
 
 `→ You can create C files.` <br/>
-`→ You can create BASH files.`
+`→ You can create BASH files.` <br/>
+`→ You can create PYTHON files.`
 
 ## Instructions
 
